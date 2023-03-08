@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmsck55
 - 👀 I’m interested in math and science.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m not currently looking to collaborate on anything.
 - I'm a coder.  I write code.
 - 📫 How to reach me is: jmsck55 at gmail dot com.
 
